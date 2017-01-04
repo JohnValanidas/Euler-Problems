@@ -9,3 +9,5 @@ This is a collection of completed or in progress problems from the [Project Eule
 * Problem 5 - completed
 * Problem 6 - completed
 * Problem 7 - completed
+* Problem 8 - completed
+* Problem 9 - completed
